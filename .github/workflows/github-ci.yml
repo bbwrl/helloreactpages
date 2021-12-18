@@ -34,6 +34,7 @@ jobs:
       run: |
         echo "deploying the app to github pages..."
         echo $user_name
+        npm run deploy
       env: 
         user_name: 'github-action[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
