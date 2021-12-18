@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/helloreactpages/static/css/main.073c9b0a.css",
+    "main.js": "/helloreactpages/static/js/main.8fb6bcd8.js",
+    "static/js/787.f7230bd0.chunk.js": "/helloreactpages/static/js/787.f7230bd0.chunk.js",
+    "index.html": "/helloreactpages/index.html",
+    "main.073c9b0a.css.map": "/helloreactpages/static/css/main.073c9b0a.css.map",
+    "main.8fb6bcd8.js.map": "/helloreactpages/static/js/main.8fb6bcd8.js.map",
+    "787.f7230bd0.chunk.js.map": "/helloreactpages/static/js/787.f7230bd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8fb6bcd8.js"
+  ]
+}
