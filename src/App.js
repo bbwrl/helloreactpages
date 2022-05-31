@@ -1,12 +1,11 @@
 
-import './App.css';
+import './App.css'
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <h1>Hello React Pages</h1>
+      <h1>Hello React on GitHub-Pages</h1>
     </div>
-  );
+  )
 }
 
-export default App;
